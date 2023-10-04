@@ -1,8 +1,6 @@
 # Tarea 01
 ## Jaqueline Torres
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 Investiga para que sirven esta herramientas:
 
 - zsh-shell
